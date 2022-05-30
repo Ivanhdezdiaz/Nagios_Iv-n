@@ -8,55 +8,55 @@ Antes de instalar nagios necesitamos isntalar lo siguiente:
 - GCC:librerias de desarrollo y compilación>
 - GD:librerías de desarrollo
 
-![](./1.png)
+![](./img/1.png)
 
 
-![](./2.png)
+![](./img/2.png)
 
-![](./3.png)
+![](./img/3.png)
 
-![](./4.png)
+![](./img/4.png)
 
 A continuación creamos la información de la cuenta del ususario.
 
-![](./5.png)
+![](./img/5.png)
 
-![](./6.png)
+![](./img/6.png)
 
-![](./7.png)
+![](./img/7.png)
 
-![](./8.png)
+![](./img/8.png)
 
-![](./9.png)
+![](./img/9.png)
 
 Lo siguiente que haremos será la compilaciín e instalación de Nagios.
 
-![](./10.png)
+![](./img/10.png)
 
-![](./11.png)
+![](./img/11.png)
 
-![](./12.png)
+![](./img/12.png)
 
 Compilamos el codigo fuente.
 
-![](./13.png)
+![](./img/13.png)
 
-![](./14.png)
+![](./img/14.png)
 
-![](./15.png)
+![](./img/15.png)
 
-![](./16.png)
+![](./img/16.png)
 
 Personalización de la configuración.
 
-![](./17.png)
+![](./img/17.png)
 
-![](./18.png)
+![](./img/18.png)
 
 Instalamos los Plugins.
-![](./19.png)
+![](./img/19.png)
 
-![](./20.png)
+![](./img/20.png)
 
 Y ya estría instalado.
 
