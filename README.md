@@ -62,6 +62,6 @@ Y ya estría instalado.
 
 [Monitorizar un equipo windows](./maquina.md)
 
-[Monitorizar un servicio de red](./servicio.md)
+[Monitorizar un servicio de red](./Servicio.md)
 
-[Monitorizar la página del centro](./pagina.md)
+[Monitorizar la página del centro](./Pagina.md)
