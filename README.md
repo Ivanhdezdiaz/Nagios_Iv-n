@@ -8,7 +8,7 @@ Antes de instalar nagios necesitamos isntalar lo siguiente:
 - GCC:librerias de desarrollo y compilación>
 - GD:librerías de desarrollo
 
-![](./img/1.png)
+![](./img/1.PNG)
 
 
 ![](./img/2.png)
