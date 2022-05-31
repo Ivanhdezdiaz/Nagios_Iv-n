@@ -8,14 +8,14 @@ Antes de instalar nagios necesitamos isntalar lo siguiente:
 - GCC:librerias de desarrollo y compilación>
 - GD:librerías de desarrollo
 
-![](./img/1.PNG)
+![](img/1.png)
 
 
-![](./img/2.png)
+![](img/2.png)
 
-![](./img/3.png)
+![](img/3.png)
 
-![](./img/4.png)
+![](img/4.png)
 
 A continuación creamos la información de la cuenta del ususario.
 
@@ -60,8 +60,8 @@ Instalamos los Plugins.
 
 Y ya estría instalado.
 
-[Monitorizar un equipo windows](./Máquina.md)
+[Monitorizar un equipo windows](./maquina.md)
 
-[Monitorizar un servicio de red](./Servicio.md)
+[Monitorizar un servicio de red](./servicio.md)
 
-[Monitorizar la página del centro](./Pagina.md)
+[Monitorizar la página del centro](./pagina.md)
